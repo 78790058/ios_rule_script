@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-29 02:11:37
+# UPDATED: 2021-12-30 02:10:54
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44714
-# DOMAIN-SUFFIX: 79924
+# DOMAIN: 44716
+# DOMAIN-SUFFIX: 79981
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # URL-REGEX: 302
-# TOTAL: 125198
+# TOTAL: 125257
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -2035,6 +2035,7 @@ ads.emqus.com
 ads.energy-torrent.com
 ads.eqmob.com
 ads.esmas.com
+ads.evidon.com
 ads.evtv1.com
 ads.exactseek.com
 ads.factorymedia.com
@@ -6857,6 +6858,7 @@ c.cokhach.com
 c.compete.com
 c.d3iz9md.com
 c.ecliks.com
+c.evidon.com
 c.f5mtrack.com
 c.gmtrack.com
 c.homestore.com
@@ -10581,7 +10583,6 @@ dichvuthammyhot.com
 dicolol.ledicodi.com
 dicrophani.com
 didarmarket.com
-didnkinrab.com
 diego-fc.com
 diegopetrelli.com
 dieho.lacasadeltikitakatv.me
@@ -19572,6 +19573,7 @@ indianmodelsindubai.com
 indianmoundcamping.com
 indianweeklynews.com
 indiaonclick.com
+indiaproxydl.org
 indiatouragency.com
 indlzxgptf.com
 indo-salodo.3eeweb.com
@@ -45701,6 +45703,7 @@ zzzpooeaz-france.com
 .2bssjsq.com
 .2byuf.cn
 .2c3a97984f45.com
+.2c5f9ab9f4.com
 .2c6bcbbb82ce911.com
 .2cnjuh34jb.com
 .2cnjuh34jbhub.com
@@ -48124,6 +48127,9 @@ zzzpooeaz-france.com
 .ablatesgascon.cam
 .ablebodiedcool.com
 .ablehed.pro
+.ablen01.tk
+.ablen03.tk
+.ablen10.tk
 .ablenctionalle.info
 .ablerivetdoubted.com
 .ablesasme.co
@@ -53197,6 +53203,7 @@ zzzpooeaz-france.com
 .aercxy.com
 .aerontre.com
 .aeros01.tk
+.aeros06.tk
 .aerserv.com
 .aes01.com
 .aestivator.com
@@ -55028,6 +55035,7 @@ zzzpooeaz-france.com
 .anomaloustradingmerciful.com
 .anon-stats.eff.org
 .anonolpucka.com
+.anonstats.eff.org
 .anonymousads.com
 .anonymousdemographics.com
 .anonymousnet.com
@@ -56158,6 +56166,7 @@ zzzpooeaz-france.com
 .assurancelocusmat.com
 .assurancemercysneak.com
 .assuremath.com
+.ast.red.asp.appirits.com
 .ast2ya4ee8wtnax.com
 .astancerta.fun
 .astat.appmifile.com
@@ -56165,6 +56174,7 @@ zzzpooeaz-france.com
 .astat.nikkei.com
 .astatic.com
 .aster18cdn.nl
+.aster18prx.nl
 .asterilivestream.com
 .asteriresearch.com
 .asterpix.com
@@ -62188,6 +62198,7 @@ zzzpooeaz-france.com
 .chypturotu.com
 .chystechagre.pro
 .chywupefo.com
+.chyxaxegre.com
 .ci-web.cn
 .ci.csefaazc.net
 .ci.quickbooks.com
@@ -63054,6 +63065,7 @@ zzzpooeaz-france.com
 .cmp.cso.com.au
 .cmp.csoonline.com
 .cmp.cxo.pl
+.cmp.deondernemer.nl
 .cmp.digitalartsonline.co.uk
 .cmp.dreamlab.pl
 .cmp.finn.no
@@ -63070,6 +63082,7 @@ zzzpooeaz-france.com
 .cmp.nextday.media
 .cmp.nouvelobs.com
 .cmp.osano.com
+.cmp.parool.nl
 .cmp.pcwelt.de
 .cmp.pcworld.co.nz
 .cmp.pcworld.com
@@ -63080,6 +63093,7 @@ zzzpooeaz-france.com
 .cmp.techhive.com
 .cmp.tek.no
 .cmp.telerama.fr
+.cmp.trouw.nl
 .cmp.tvspielfilm.de
 .cmp2.channelpartner.de
 .cmp288.com
@@ -63916,6 +63930,7 @@ zzzpooeaz-france.com
 .consentag.eu
 .consentedconscientious.com
 .consentframework.com
+.consentmanager.net
 .consentrenovate.com
 .consequentlyinmate.com
 .conservesoy.com
@@ -65201,6 +65216,7 @@ zzzpooeaz-france.com
 .ctivesprepaired.club
 .ctjvkaqiekquag.com
 .ctl.mobitrack.co.kr
+.ctlrnwbv.ru
 .ctm-media.com
 .ctmconnect.com
 .ctmmedia.com
@@ -66388,6 +66404,8 @@ zzzpooeaz-france.com
 .daretodreamfarm.com
 .daringprobablywithin.com
 .darkenedshrine.com
+.darking04.tk
+.darking06.tk
 .darmoweliczniki.info
 .darmowezakupy.com
 .darren01.oss-cn-beijing.aliyuncs.com
@@ -67112,6 +67130,7 @@ zzzpooeaz-france.com
 .departedbeings.com
 .departgross.com
 .departmentunsuccessful.com
+.departurealtar.com
 .departureweathertraces.com
 .dependable-s.hyster.com
 .dependablewood.com
@@ -67464,6 +67483,7 @@ zzzpooeaz-france.com
 .diddaisycuff.com
 .didit.com
 .didna.io
+.didnkinrab.com
 .didnrep.ru
 .didpuprat.com
 .didrex.1.p2l.info
@@ -67837,6 +67857,7 @@ zzzpooeaz-france.com
 .diwebstatics.carte-gr.total.fr
 .diwuyu.com
 .diximedia.es
+.dixygxmk.top
 .diypxh.tillys.com
 .diyxjd.com
 .dizhonghaihotel.com
@@ -70290,6 +70311,7 @@ zzzpooeaz-france.com
 .elle.alljournal.ru
 .ellenhilary.com
 .ellenince.biz
+.ellentmatchwi.com
 .elliotfoodauditioning.com
 .elliotnotions.com
 .ellorschairwaydis.site
@@ -71494,7 +71516,6 @@ zzzpooeaz-france.com
 .eviboli576.of.com
 .eviclick.pro
 .evidentlycaricatureinside.com
-.evidon.com
 .eviltracker.net
 .eviral.com
 .evisit.exeter.ac.uk
@@ -72575,6 +72596,7 @@ zzzpooeaz-france.com
 .ffhtek.com
 .ffhwzaenzoue.com
 .ffickiedisticre.site
+.ffinwwfpqi.gq
 .ffjk.space
 .ffkdxymyji.com
 .fflsn.com
@@ -72992,6 +73014,7 @@ zzzpooeaz-france.com
 .fliedridgin.com
 .flightsreport.com
 .flightstodays.com
+.flightzy.bi
 .flimsycircle.com
 .flimsythought.com
 .flingywalkup.com
@@ -77017,6 +77040,7 @@ zzzpooeaz-france.com
 .hbyingchang.cn
 .hbyinzhibao.cn
 .hbyjrspyxgs.site
+.hbys66.com
 .hbyyzm.com
 .hbzhenquan.cn
 .hbzhurong.cn
@@ -78050,6 +78074,7 @@ zzzpooeaz-france.com
 .hornyspots.com
 .horriblygeneratortwinkle.com
 .horried.pro
+.horrorscopeme.ml
 .horse-racing-affiliate-program.co.uk
 .horsefingercoffee.com
 .horselvxing.cn
@@ -79844,7 +79869,6 @@ zzzpooeaz-france.com
 .indianbannerexchange.com
 .indianfriendfinder.com
 .indianlinkexchange.com
-.indiaproxydl.org
 .indiazed.com
 .indicaterhools.site
 .indicative.com
@@ -80200,6 +80224,7 @@ zzzpooeaz-france.com
 .ingivergrimier.com
 .ingoinghitchstick.com
 .ingoomychan.com
+.ingorob.com
 .ingpercent.biz
 .ingprographyt.info
 .inhadhen.com
@@ -81993,7 +82018,6 @@ zzzpooeaz-france.com
 .jqki.cn
 .jqmt.qq.com
 .jqpvv.cn
-.jqrcdn.download
 .jqsex.com
 .jquery-cdn.download
 .jquery-uim.download
@@ -82156,6 +82180,7 @@ zzzpooeaz-france.com
 .jshonghuadq.com
 .jshosting.date
 .jshosting.download
+.jshosting.racing
 .jshosting.trade
 .jshosting.win
 .jsinfo.net
@@ -82979,6 +83004,7 @@ zzzpooeaz-france.com
 .kickfire.com
 .kicnse.com
 .kid9.info
+.kiddingnoticediminish.com
 .kidexecha.com
 .kidisland.cn
 .kidnappingendless.com
@@ -83357,6 +83383,7 @@ zzzpooeaz-france.com
 .kooappslogs.com
 .koocash.com
 .koocaucy.com
+.koochaud.net
 .koolmediaoffers.com
 .koooa.net
 .koopei.com
@@ -83539,6 +83566,7 @@ zzzpooeaz-france.com
 .kuaizuoffice.com
 .kuajingtao.cc
 .kualianyingxiao.cn
+.kuangbang.ltd
 .kuangtuiguoo18888.com
 .kubam.cn
 .kubet.biz
@@ -85725,6 +85753,7 @@ zzzpooeaz-france.com
 .lomeldeer.club
 .londonprivaterentals.standard.co.uk
 .lonelyplace.com
+.loneptipy.pro
 .long8590.com
 .long88.app
 .longbaojiachen.top
@@ -85935,7 +85964,6 @@ zzzpooeaz-france.com
 .lps.qantas.com
 .lpsgc.cn
 .lpsxssm.com
-.lptag.liveperson.net
 .lpuhcdnyejf.com
 .lpwre.top
 .lpwx.xyz
@@ -88551,6 +88579,7 @@ zzzpooeaz-france.com
 .meizhuzhuangshi.com.cn
 .mekadr.com
 .melahorgani.com
+.melbil.net
 .meldingtechnology.com
 .melinaeability.casa
 .melindahicks.xyz
@@ -90218,6 +90247,7 @@ zzzpooeaz-france.com
 .mlinkjg.cn
 .mlinks.fluz.app
 .mlion.cn
+.mlitylcjgc.top
 .mlkjia.carte-gr.total.fr
 .mlm.de
 .mlnadvertising.com
@@ -93513,6 +93543,7 @@ zzzpooeaz-france.com
 .nyceov.life.ru
 .nycphlb.dvgtm.akadns.net
 .nyctrl32.com
+.nydjlhetoj.top
 .nydjsm.cn
 .nydql.com
 .nyetm2mkch.com
@@ -94168,6 +94199,7 @@ zzzpooeaz-france.com
 .oimsgad.qq.com
 .oinadserve.com
 .oiniao.com
+.oinkinns.tk
 .oiokewfkjnvq.com
 .oiqheoiwgnqiweoj.bid
 .oiqpgawl.com
@@ -94225,6 +94257,7 @@ zzzpooeaz-france.com
 .ojues.com
 .ojwejqeqvxn.xyz
 .ojxgmgvpfad.top
+.ok-app.online
 .ok.432kkk.com
 .ok.4qn9c.cn
 .ok.5.p2l.info
@@ -95624,6 +95657,7 @@ zzzpooeaz-france.com
 .pacificnet.xyz
 .pacificpoker.eonlinepoker4u.net
 .pacifoos.net
+.pacifyrespirator.com
 .package01.com
 .packsonikolas.info
 .packsss.com
@@ -97090,6 +97124,7 @@ zzzpooeaz-france.com
 .piratebay.to
 .piratenbucht.eu
 .piratepc.net
+.pirateproxy.cl
 .piratepx.com
 .pirchio.com
 .pirdoust.com
@@ -98280,6 +98315,7 @@ zzzpooeaz-france.com
 .presidery.info
 .pressingmiscellaneoustry.com
 .pressize.com
+.pressizer.net
 .pressly.com
 .presssensor.com
 .pressshredpreach.com
@@ -98814,6 +98850,7 @@ zzzpooeaz-france.com
 .proxy.dzeio.com
 .proxy.sec.miui.com
 .proxyfl.info
+.proxyhell.com
 .proxyindia.net
 .proxypage.msn.com
 .proxytpb.pw
@@ -101024,6 +101061,7 @@ zzzpooeaz-france.com
 .reevaipi.com
 .reeviveglobal.com
 .reevoo.com
+.reewituhinlar.com
 .ref.dealerinspire.com
 .ref.gitadres.com
 .refaucherais.site
@@ -101793,6 +101831,7 @@ zzzpooeaz-france.com
 .rigidrobin.com
 .rigourcrispblaspheme.com
 .rigourflickmarketing.com
+.rigxpadydyveja.com
 .riibl.com
 .rik.vip
 .rik.win
@@ -101890,6 +101929,7 @@ zzzpooeaz-france.com
 .rjltpektsuqsu.com
 .rjnjjin.cn
 .rjrrs.com.br
+.rjsbnqgxktkjjd.xyz
 .rjtpos.cn
 .rkdms.com
 .rkfnrkjfnrkfnkjh.xyz
@@ -102489,6 +102529,7 @@ zzzpooeaz-france.com
 .runnyamowt.com
 .runovocti.com
 .runsyndicate.com
+.runtai369.cn
 .runtime.lemonpi.io
 .runtnc.net
 .runtujs.com
@@ -103451,6 +103492,7 @@ zzzpooeaz-france.com
 .sblftg.com
 .sblimrvlco.xyz
 .sbmoney.ru
+.sbmrwzkwshit.com
 .sboite.cn
 .sbpb1.chuiyue.com
 .sbpb1.qulishi.com
@@ -104295,6 +104337,7 @@ zzzpooeaz-france.com
 .semiocast.com
 .semireproji.pro
 .semnicneposilejte.cz
+.semoit.com
 .sempcxjajh.com
 .semtracker.de
 .senateindicator.com
@@ -105211,6 +105254,7 @@ zzzpooeaz-france.com
 .sighash.info
 .sightcoloniansy.site
 .sightjutfar.com
+.sigilsspeiss.com
 .sigmaad.com
 .signalayer.com
 .signaly.co
@@ -105273,7 +105317,6 @@ zzzpooeaz-france.com
 .simpio.com
 .simple.bootify.io
 .simpleads.net
-.simpleanalytics.com
 .simpleanalytics.io
 .simpleanalyticsbadge.com
 .simpleanalyticscdn.com
@@ -108082,6 +108125,7 @@ zzzpooeaz-france.com
 .ssite.waitrose.com
 .ssix.io
 .ssjpx.com
+.ssjxwlkj.com
 .ssjy168.com
 .sskmnews.pro
 .ssl-services.com
@@ -108304,6 +108348,7 @@ zzzpooeaz-france.com
 .st.newyorklifeinvestments.com
 .st.onlygip.tech
 .st.pba.xl.pt
+.st.sawlive.tv
 .st.tmgrup.com.tr
 .st.videojam.tv
 .st.vq.ku6.cn
@@ -109383,6 +109428,7 @@ zzzpooeaz-france.com
 .stats.zaloapp.com
 .stats.zander.wtf
 .stats.zmags.com
+.stats.zone-annuaire.one
 .stats.zonetelechargement.work
 .stats.zotabox.com
 .stats01.20min.ch
@@ -112103,6 +112149,7 @@ zzzpooeaz-france.com
 .thitegnu.net
 .thizamocu.pro
 .thj.astrakhan.ru
+.thjxwlkj.com
 .thkxtvklfdeget.com
 .thli43.cn
 .thmake.com
@@ -114915,6 +114962,7 @@ zzzpooeaz-france.com
 .trk.adbutter.net
 .trk.alskeip.com
 .trk.aviationweek.com
+.trk.badtooltelldoubt.xyz
 .trk.bc.shutterfly.com
 .trk.beedata.com
 .trk.blume2000.de
@@ -115053,6 +115101,7 @@ zzzpooeaz-france.com
 .truendo.com
 .truepush.com
 .truernewlywait.com
+.trueskincare.tech
 .truestioncarefore.site
 .truesweb.com
 .truex.com
@@ -115075,6 +115124,7 @@ zzzpooeaz-france.com
 .trusted-click-host.com
 .trusted-web-seal.cybertrust.ne.jp
 .trustedclickhost.com
+.trustedcpmrevenue.com
 .trustedgatetocontent.com
 .trustedmaccleaner.com
 .trustedmacleaner.click
@@ -116030,6 +116080,7 @@ zzzpooeaz-france.com
 .unableincludingrow.com
 .unablewisdom.com
 .unacceptableclevercapable.com
+.unacceptablepit.com
 .unads.ru
 .unanimis.co.uk
 .unarmedindustry.com
@@ -116357,6 +116408,7 @@ zzzpooeaz-france.com
 .uponsurskita.com
 .uporods.com
 .uppilt.com
+.upplei.com
 .uppro.ru
 .uprank.com
 .upravel.com
@@ -120090,6 +120142,7 @@ zzzpooeaz-france.com
 .wpnjs.com
 .wpnrtnmrewunrtok.xyz
 .wpnsrv.com
+.wppdgupelr.com
 .wppluginspro.com
 .wpqsmse.cn
 .wprixk.brocard.ua
@@ -121312,6 +121365,7 @@ zzzpooeaz-france.com
 .wzxzy.icu
 .wzytop.top
 .wzyywlkj.com
+.wzzb.club
 .x-adservice.com
 .x-playboy.com
 .x-stat.de
@@ -121395,6 +121449,7 @@ zzzpooeaz-france.com
 .xadsmart.com
 .xafengzhij.xyz
 .xafxs.cn
+.xahggy.com
 .xaholica.com
 .xahydp.cn
 .xajx.com
@@ -121705,6 +121760,7 @@ zzzpooeaz-france.com
 .xigeweb.com
 .xigolashu.com
 .xihashuale.com
+.xihua.me
 .xihuangdushu.com
 .xihuashuale.com
 .xihucio.ru
@@ -122849,6 +122905,7 @@ zzzpooeaz-france.com
 .yingxunkeji.net
 .yingyeping.com
 .yinhaijuan.com
+.yini.link
 .yini8.com
 .yinlt.com
 .yinmofun.com
@@ -123433,6 +123490,7 @@ zzzpooeaz-france.com
 .yumimobi.com
 .yumingdan.top
 .yummyfoodallover.com
+.yumu.pro
 .yun-hl.3g.qq.com
 .yun-pdm2000.cn
 .yun-pdm5000.cn
@@ -124141,6 +124199,7 @@ zzzpooeaz-france.com
 .zitaoh.cn
 .ziwyduke.xyz
 .zixiansun.com
+.zixiaxianhua.shop
 .zixinnuo.cn
 .zixivily.com
 .zixun8.com

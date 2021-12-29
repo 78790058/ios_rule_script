@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-29 02:11:37
+# UPDATED: 2021-12-30 02:10:54
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72544
+# DOMAIN-SUFFIX: 72540
 # DOMAIN: 57
-# IP-CIDR: 6184
+# IP-CIDR: 6180
 # DOMAIN-KEYWORD: 1
-# TOTAL: 78848
+# TOTAL: 78840
 DOMAIN-KEYWORD,.tmall.com
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -2845,7 +2845,6 @@ IP-CIDR,125.62.0.0/18,no-resolve
 IP-CIDR,125.64.0.0/11,no-resolve
 IP-CIDR,125.96.0.0/15,no-resolve
 IP-CIDR,125.98.0.0/16,no-resolve
-IP-CIDR,128.1.62.200/31,no-resolve
 IP-CIDR,128.108.0.0/16,no-resolve
 IP-CIDR,129.204.0.0/16,no-resolve
 IP-CIDR,129.211.0.0/16,no-resolve
@@ -3008,7 +3007,6 @@ IP-CIDR,15.230.49.0/24,no-resolve
 IP-CIDR,150.0.0.0/16,no-resolve
 IP-CIDR,150.109.0.0/16,no-resolve
 IP-CIDR,150.115.0.0/16,no-resolve
-IP-CIDR,150.116.92.250/32,no-resolve
 IP-CIDR,150.121.0.0/16,no-resolve
 IP-CIDR,150.122.0.0/16,no-resolve
 IP-CIDR,150.129.136.0/22,no-resolve
@@ -3168,7 +3166,6 @@ IP-CIDR,163.53.64.0/22,no-resolve
 IP-CIDR,163.53.88.0/21,no-resolve
 IP-CIDR,163.53.96.0/19,no-resolve
 IP-CIDR,164.52.52.0/24,no-resolve
-IP-CIDR,164.52.76.18/32,no-resolve
 IP-CIDR,164.52.80.0/24,no-resolve
 IP-CIDR,165.154.100.0/22,no-resolve
 IP-CIDR,165.154.104.0/21,no-resolve
@@ -5983,7 +5980,6 @@ IP-CIDR,45.255.248.0/22,no-resolve
 IP-CIDR,45.255.64.0/19,no-resolve
 IP-CIDR,45.255.96.0/20,no-resolve
 IP-CIDR,45.40.192.0/18,no-resolve
-IP-CIDR,45.43.32.234/32,no-resolve
 IP-CIDR,45.65.16.0/20,no-resolve
 IP-CIDR,45.87.53.0/24,no-resolve
 IP-CIDR,45.87.54.0/23,no-resolve
@@ -6128,6 +6124,7 @@ IP-CIDR,61.8.160.0/20,no-resolve
 IP-CIDR,61.87.192.0/18,no-resolve
 IP-CIDR,62.234.0.0/16,no-resolve
 IP-CIDR,62.3.6.0/24,no-resolve
+IP-CIDR,63.140.0.0/24,no-resolve
 IP-CIDR,63.217.23.0/24,no-resolve
 IP-CIDR,63.218.252.10/32,no-resolve
 IP-CIDR,63.243.252.0/24,no-resolve
@@ -6153,7 +6150,6 @@ IP-CIDR,67.198.188.0/23,no-resolve
 IP-CIDR,67.198.192.0/23,no-resolve
 IP-CIDR,67.198.195.0/24,no-resolve
 IP-CIDR,67.198.199.0/24,no-resolve
-IP-CIDR,67.198.201.0/24,no-resolve
 IP-CIDR,67.198.207.0/24,no-resolve
 IP-CIDR,67.198.208.0/24,no-resolve
 IP-CIDR,67.198.221.0/24,no-resolve

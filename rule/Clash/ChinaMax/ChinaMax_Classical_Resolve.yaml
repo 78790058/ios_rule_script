@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-29 02:11:36
-# DOMAIN-SUFFIX: 72544
-# PROCESS-NAME: 6
+# UPDATED: 2021-12-30 02:10:53
+# DOMAIN-SUFFIX: 72540
+# PROCESS-NAME: 5
 # DOMAIN: 57
-# IP-CIDR: 6184
+# IP-CIDR: 6180
 # IP-CIDR6: 5441
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84233
+# TOTAL: 84224
 payload:
   - DOMAIN,265.com
   - DOMAIN,c.android.clients.google.com
@@ -46857,10 +46857,8 @@ payload:
   - DOMAIN-SUFFIX,ozouckzr.com
   - DOMAIN-SUFFIX,ozrot.com
   - DOMAIN-SUFFIX,ozzyad.com
-  - DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
   - DOMAIN-SUFFIX,p-dragon.com
   - DOMAIN-SUFFIX,p-e-china.com
-  - DOMAIN-SUFFIX,p.bstarstatic.com
   - DOMAIN-SUFFIX,p.cdn.persaas.dell.com
   - DOMAIN-SUFFIX,p0kc9ym05p.com
   - DOMAIN-SUFFIX,p1.com
@@ -59557,8 +59555,6 @@ payload:
   - DOMAIN-SUFFIX,uplookedu.com
   - DOMAIN-SUFFIX,uplooking.com
   - DOMAIN-SUFFIX,upnb.com
-  - DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
-  - DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,upowerchain.com
   - DOMAIN-SUFFIX,uppsd.com
@@ -75448,7 +75444,6 @@ payload:
   - IP-CIDR,125.64.0.0/11
   - IP-CIDR,125.96.0.0/15
   - IP-CIDR,125.98.0.0/16
-  - IP-CIDR,128.1.62.200/31
   - IP-CIDR,128.108.0.0/16
   - IP-CIDR,129.204.0.0/16
   - IP-CIDR,129.211.0.0/16
@@ -75611,7 +75606,6 @@ payload:
   - IP-CIDR,150.0.0.0/16
   - IP-CIDR,150.109.0.0/16
   - IP-CIDR,150.115.0.0/16
-  - IP-CIDR,150.116.92.250/32
   - IP-CIDR,150.121.0.0/16
   - IP-CIDR,150.122.0.0/16
   - IP-CIDR,150.129.136.0/22
@@ -75771,7 +75765,6 @@ payload:
   - IP-CIDR,163.53.88.0/21
   - IP-CIDR,163.53.96.0/19
   - IP-CIDR,164.52.52.0/24
-  - IP-CIDR,164.52.76.18/32
   - IP-CIDR,164.52.80.0/24
   - IP-CIDR,165.154.100.0/22
   - IP-CIDR,165.154.104.0/21
@@ -78586,7 +78579,6 @@ payload:
   - IP-CIDR,45.255.64.0/19
   - IP-CIDR,45.255.96.0/20
   - IP-CIDR,45.40.192.0/18
-  - IP-CIDR,45.43.32.234/32
   - IP-CIDR,45.65.16.0/20
   - IP-CIDR,45.87.53.0/24
   - IP-CIDR,45.87.54.0/23
@@ -78731,6 +78723,7 @@ payload:
   - IP-CIDR,61.87.192.0/18
   - IP-CIDR,62.234.0.0/16
   - IP-CIDR,62.3.6.0/24
+  - IP-CIDR,63.140.0.0/24
   - IP-CIDR,63.217.23.0/24
   - IP-CIDR,63.218.252.10/32
   - IP-CIDR,63.243.252.0/24
@@ -78756,7 +78749,6 @@ payload:
   - IP-CIDR,67.198.192.0/23
   - IP-CIDR,67.198.195.0/24
   - IP-CIDR,67.198.199.0/24
-  - IP-CIDR,67.198.201.0/24
   - IP-CIDR,67.198.207.0/24
   - IP-CIDR,67.198.208.0/24
   - IP-CIDR,67.198.221.0/24
@@ -84238,7 +84230,6 @@ payload:
   - IP-CIDR6,2a0e:aa07:f012::/48
   - IP-CIDR6,2a10:1cc0::/29
   - PROCESS-NAME,com.bilibili.app.in
-  - PROCESS-NAME,com.iqiyi.i18n
   - PROCESS-NAME,com.jjwxc.reader
   - PROCESS-NAME,com.qiyi.video
   - PROCESS-NAME,com.taobao.taobao
